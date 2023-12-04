@@ -7,3 +7,5 @@ User-Centric Approach: Understand the importance of user feedback and iterate de
 Collaboration: Work closely with cross-functional teams, including developers and product managers, to bring your designs to life.
 <br>
 author : Saylee Gode
+
+live demo:http://127.0.0.1:5500/index.html
